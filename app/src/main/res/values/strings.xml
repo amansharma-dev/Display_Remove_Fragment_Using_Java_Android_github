@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Display_Remove_Fragment_Using_Java_Android_github</string>
-</resources>
+
+    <string name="button_addFrag">Add Fragment</string>
+    <string name="button_removeFrag">Remove Fragment</string>
+    <string name="text_follow">Thank You and Keep Supporting </string>
+    <string name="text_github">amansharma-dev</string>
+
+  </resources>
